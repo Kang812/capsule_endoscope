@@ -12,6 +12,8 @@
 * Faster_RCNN의 결과와 DetectoRS의 결과와 CenterNet의 결과를 앙상블한 submission 결과 mAP 0.70125
 
 **모델 훈련 환경**
+* CPU Intel(R) Core(TM) i7-4790K 4.00GHz
+* GPU RTX 3060 12GB
 * python 3.8.11
 * mmdetection 2.18.0
 * mmcv 1.3.11
