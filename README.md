@@ -3,4 +3,4 @@
 
 **Discussion:** https://dacon.io/competitions/official/235855/overview/description
 
-**사용한 모델:** Faster_RCNN, DetectoRS, 
+**사용한 모델:** Faster_RCNN, DetectoRS, CenterNet
